@@ -120,7 +120,7 @@ header {
   background-size: cover;
   border-radius: 2rem;
   align-items: center;
-  /* object-fit: cover; */
+  object-fit: cover;
 
   animation: downtop 500ms 500ms backwards;
 }
