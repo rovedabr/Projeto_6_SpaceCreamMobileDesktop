@@ -1,6 +1,6 @@
 # Projeto 06
 
-## Space Cream - Mobile and Desktop
+## Space Cream - Mobile and Desktop (Layout Responsivo)
 
 Programação HTML e CCS.
 
