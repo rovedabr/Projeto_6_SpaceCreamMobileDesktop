@@ -12,7 +12,7 @@ Programação HTML e CCS.
 - Posicionamento de Objetos.
 - Grid
 - Animação e transição de objetos
-- Modelo único apra desktop e mobile
+- Modelo único para desktop e mobile - Mobile First 
 
 
 
